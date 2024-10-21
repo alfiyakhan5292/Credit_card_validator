@@ -1,4 +1,4 @@
-# Pyhon credit card validator program
+# Python credit card validator program
 
 # 1. remove any '-' or ' '
 # 2. Add all digits in the odd places from right to left
